@@ -1,0 +1,13 @@
+body{
+    background:url(1.jpeg) no-repeat fixed;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.fa:hover{
+    cursor:-webkit-grab;
+}
+
+
